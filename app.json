@@ -1,8 +1,8 @@
 {
-  "name":"FLASH-MD",
+  "name":"bilal-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/003f81e23f20cc7c7b855.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"#",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -34,7 +34,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"ᴠͥɪͣᴘͫ𝓑𝓲𝓵𝓪𝓵 𝓐𝔀𝓪𝓷𝔃𝓪𝓭𝓪",
       "value":"FLASH-MD",
       "required":false
 
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/003f81e23f20cc7c7b855.jpg",
       "required":false
        
      },
@@ -72,14 +72,14 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "ᴠͥɪͣᴘͫ𝓑𝓲𝓵𝓪𝓵 𝓐𝔀𝓪𝓷𝔃𝓪𝓭𝓪",
     "required": false,
-    "value": "France King"
+    "value": "Bilal King"
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "971563139758 , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
     "value": "254751284190"
   },
@@ -87,7 +87,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
