@@ -1,17 +1,17 @@
  <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by France King.
+<p align="center"> Bilal-MD, A Simple WhatsApp user BOT, Created by Bilal King.
 </p>
 
 
 
-<img src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/003f81e23f20cc7c7b855.jpg" width="700" height="300"/>
 
 
 
 ### Setup
 
 **📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/franceking1/Flash-Md/fork) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/Awanzada8/Flash-Md/fork) and `Star ⭐ Repository` for Courage.***
    - ***`Get Session` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flashmd-session-5fea4d73011f.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
@@ -31,5 +31,5 @@ Enjoy the diverse features of the Flash-Md  to enhance your conversations and ma
 ## Developer:
 
 - [**Instagram**](https://instagram.com/france.king1)
-- [**WhatsApp**](https://wa.me/254757835036)
+- [**WhatsApp**](https://wa.me/971558510406)
 
